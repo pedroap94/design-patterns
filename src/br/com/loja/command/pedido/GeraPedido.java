@@ -1,9 +1,6 @@
 package br.com.loja.command.pedido;
 
-import br.com.loja.strategy.orcamento.Orcamento;
-
 import java.math.BigDecimal;
-import java.time.LocalDateTime;
 
 public class GeraPedido {
     private String cliente;
